@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.md": "mdx",
+    "*.svg": "xml",
+    "vector": "cpp",
+    "iosfwd": "cpp"
+  }
+}
